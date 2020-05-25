@@ -1,0 +1,10 @@
+{
+  "localNode": "http://localhost:7000",
+  "referenceNodes": [
+    "https://testnet.lisk.io",
+    "https://test-01.liskapi.io",
+    "https://test-02.liskapi.io"
+  ],
+  "allowedHeightDelta": 10,
+  "enableUpgrades": true
+}
